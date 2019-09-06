@@ -1,0 +1,2 @@
+# Defect-detection-of-concrete-structures-using-OpenCV-
+This is a dummy model of how I want to create this application  using Deep learning algorithms. Ignore the stitching of images process of which the dummy model is being developed in case the images are taken through drones. Ignore the alignment of images and size in GUI template.  Main application would contain real time acquisition of images
